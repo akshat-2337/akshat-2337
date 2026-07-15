@@ -17,21 +17,19 @@
 ### 👋 About Me
 
 - 🎓 CS undergrad at **Manipal Institute of Technology, Bengaluru**
-- 🛡️ Sharpening skills in **Cybersecurity**, **Finance**, and **Software Development**
-- 📸 Founder of **[vrm.clicks](https://github.com/akshat-2337)** — a creative photography & videography brand
-- 🧩 Deep in a structured **DSA roadmap** — 75 problems, 8 weeks, no shortcuts
+- 🛡️ Sharpening skills in **Full stack development**, **ML & Data Science**, and **Software Development**
 - 🕹️ When I'm not building — probably deep in a story-driven stealth/action game
-- 💬 Ask me about Python, Java, market data, or how to color-grade a shot
+- 💬 Ask me about Python, Java, data science, ML or Full Stack applications.
 
 ---
 
 ### 🧠 Currently
 
 ```text
-🔭 Grinding through Trees, Heaps, DP & Graphs on my DSA roadmap
-🌱 Exploring MDR / threat-analysis workflows in cybersecurity
-📊 Building finance-flavored side projects (quant + market analysis)
-🎬 Shooting & editing for vrm.clicks
+🔭 Building Good and Breaking Bad.
+🌱 Exploring full stack development
+📊 Trying to learn by building.
+🎬 I use photography as a creative outlet.
 ```
 
 ---
@@ -69,15 +67,6 @@
 
 ---
 
-### 🚀 Featured Project
-
-<div align="center">
-
-[![TSLA vs GME Stock Analysis](https://github-readme-stats.vercel.app/api/pin/?username=akshat-2337&repo=TSLA-vs-GME-stock-analysis-dashboard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7)](https://github.com/akshat-2337/TSLA-vs-GME-stock-analysis-dashboard)
-
-</div>
-
-A Python-powered dashboard comparing TSLA and GME using `yfinance`, web scraping, `pandas`, and `matplotlib` — built to explore how retail-driven volatility shows up in the numbers.
 
 ---
 
