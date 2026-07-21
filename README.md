@@ -1,97 +1,84 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00C9A7&height=200&section=header&text=Akshat%20Verma&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Code%20%C2%B7%20Capital%20%C2%B7%20Creativity&descAlignY=55&descSize=20" width="100%"/>
+# Akshat
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&pause=1000&color=00C9A7&center=true&vCenter=true&width=650&lines=CS+Undergrad+%40+Manipal+Institute+of+Technology;Building+at+the+intersection+of+Finance+%26+Security;Founder+%40+vrm.clicks+📸;%2375DaysOfCode+%7C+DSA+in+progress" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=F97316&center=true&vCenter=true&width=460&lines=CSE+%40+Manipal+Institute+of+Technology;Building+in+finance+%2B+data+%2B+security;Shipping+LedgerX+%E2%80%94+a+finance+tracker;Running+the+vrm.clicks+lens+on+the+side" alt="typing-svg" />
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-verma-293a65266/)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatvrm23@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=akshat-2337&style=for-the-badge&color=00C9A7&label=PROFILE+VIEWS)](https://github.com/akshat-2337)
+<a href="https://www.linkedin.com/in/akshat-verma-293a65266/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=F97316" /></a>
+<a href="mailto:akshatvrm23@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=gmail&logoColor=F97316" /></a>
+<a href="https://github.com/akshat-2337"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=F97316" /></a>
 
 </div>
 
----
+<br>
 
-### 👋 About Me
+### about
 
-- 🎓 CS undergrad at **Manipal Institute of Technology, Bengaluru**
-- 🛡️ Sharpening skills in **Full stack development**, **ML & Data Science**, and **Software Development**
-- 🕹️ When I'm not building — probably deep in a story-driven stealth/action game
-- 💬 Ask me about Python, Java, data science, ML or Full Stack applications.
+- 🎓 Computer Science undergrad at **Manipal Institute of Technology, Bengaluru**
+- 💹 Building at the intersection of **finance, data, and software**
+- 🔐 Also digging into **cybersecurity**, one CTF-shaped rabbit hole at a time
+- 🎬 Run **[vrm.clicks](https://github.com/akshat-2337)** — a photography & videography brand — on the side
+- 🌱 Currently deep in DSA fundamentals and sharpening my finance-project portfolio
 
----
+<br>
 
-### 🧠 Currently
+### currently building
 
-```text
-🔭 Building Good and Breaking Bad.
-🌱 Exploring full stack development
-📊 Trying to learn by building.
-🎬 I use photography as a creative outlet.
-```
+| Project | What it is |
+|---|---|
+| **LedgerX** | A Next.js personal finance tracker — Clerk auth, Tailwind UI |
+| **TSLA vs GME Dashboard** | Stock analysis in Python — yfinance, pandas, matplotlib |
+| **Desktop Photo Editor** | A Tkinter + Pillow image editor with filters, drawing tools, undo/redo |
 
----
+<br>
 
-### 🛠️ Tech Stack
+### tech stack
 
-<div align="center">
+**Languages**
 
-**Languages & Core**
-<br/>
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=F97316" />
+<img src="https://img.shields.io/badge/Java-0A0A0A?style=flat-square&logo=openjdk&logoColor=F97316" />
+<img src="https://img.shields.io/badge/C-0A0A0A?style=flat-square&logo=c&logoColor=F97316" />
+<img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=F97316" />
+<img src="https://img.shields.io/badge/HTML5-0A0A0A?style=flat-square&logo=html5&logoColor=F97316" />
+<img src="https://img.shields.io/badge/CSS3-0A0A0A?style=flat-square&logo=css3&logoColor=F97316" />
 
-**Data, ML & Backend**
-<br/>
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+**Web & App**
+
+<img src="https://img.shields.io/badge/Next.js-0A0A0A?style=flat-square&logo=next.js&logoColor=F97316" />
+<img src="https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=F97316" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=flat-square&logo=tailwindcss&logoColor=F97316" />
+<img src="https://img.shields.io/badge/Clerk-0A0A0A?style=flat-square&logo=clerk&logoColor=F97316" />
+
+**Data & Finance**
+
+<img src="https://img.shields.io/badge/Pandas-0A0A0A?style=flat-square&logo=pandas&logoColor=F97316" />
+<img src="https://img.shields.io/badge/NumPy-0A0A0A?style=flat-square&logo=numpy&logoColor=F97316" />
+<img src="https://img.shields.io/badge/Matplotlib-0A0A0A?style=flat-square&logo=plotly&logoColor=F97316" />
+<img src="https://img.shields.io/badge/yfinance-0A0A0A?style=flat-square&logo=yahoo&logoColor=F97316" />
 
 **Creative Suite**
-<br/>
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinci-resolve&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-</div>
+<img src="https://img.shields.io/badge/DaVinci_Resolve-0A0A0A?style=flat-square&logo=davinciresolve&logoColor=F97316" />
+<img src="https://img.shields.io/badge/Photoshop-0A0A0A?style=flat-square&logo=adobephotoshop&logoColor=F97316" />
+<img src="https://img.shields.io/badge/Premiere_Pro-0A0A0A?style=flat-square&logo=adobepremierepro&logoColor=F97316" />
 
----
+**Tools**
 
+<img src="https://img.shields.io/badge/Git-0A0A0A?style=flat-square&logo=git&logoColor=F97316" />
+<img src="https://img.shields.io/badge/VS_Code-0A0A0A?style=flat-square&logo=visualstudiocode&logoColor=F97316" />
 
----
+<br>
 
-### 📊 GitHub Stats
+### stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=akshat-2337&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-2337&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9A7&fire=00C9A7" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-2337&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9A7&langs_count=8" width="55%"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=akshat-2337&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=F97316&icon_color=F97316&text_color=C9D1D9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-2337&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=F97316&text_color=C9D1D9" width="34%" />
 </div>
 
----
-
-### 📫 Let's Connect
+<br>
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-verma-293a65266/)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatvrm23@gmail.com)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0F2027&height=100&section=footer" width="100%"/>
-
+<sub>coding goes brrrrrr 🫡</sub>
 </div>
