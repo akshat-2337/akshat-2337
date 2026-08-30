@@ -4,13 +4,13 @@
 
 🎓 **2nd Year Computer Science Student @ MIT Bengaluru**
 
-I'm a Computer Science student who likes **building things, solving problems, and figuring out why they broke.**
+I enjoy **building things, solving problems, and turning ideas into working software.**
 
-Currently focused on **full-stack development and Data Structures & Algorithms** — while constantly experimenting with new ideas and projects.
+Currently focused on **Full-Stack Development, Data Structures & Algorithms, and Competitive Programming.**
 
 <br/>
 
-## 🧠 What I'm working with
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,c,js,ts,react,html,css,tailwind,vite,nodejs,git,github,vscode&perline=8" />
@@ -18,65 +18,71 @@ Currently focused on **full-stack development and Data Structures & Algorithms**
 
 <br/>
 
-## 🚀 Things I've built
+## 🚀 Featured Projects
 
-### 💸 LedgerX (in progress)
+### 📚 LabVault
 
-**Personal finance management app**
+**Digital Lab Code Hub for MIT Bengaluru**
 
-`React` `TypeScript` `Vite` `Tailwind`
+`HTML` `CSS` `JavaScript`
 
-A personal finance tracker focused on keeping money management simple and intuitive.
+A student-focused platform that organizes **Digital System Design and Data Structures lab programs** for CSE Semester III students at MIT Bengaluru — making it easier to find, access and use lab codes in one place.
 
-→ [View project](https://github.com/akshat-2337/ledgerx)
+→ [View Repository](https://github.com/akshat-2337/LabVault)
 
 ---
 
-### 📈 TSLA vs GME Stock Analysis
+### 💸 LedgerX
 
-**Data analysis & visualization project**
+**Personal Finance Management App**
+
+`React` `TypeScript` `Vite` `Tailwind CSS`
+
+A personal finance application designed to make tracking and managing finances simple and intuitive.
+
+→ [View Repository](https://github.com/akshat-2337/ledgerx)
+
+---
+
+### 📊 TSLA vs GME Stock Analysis
+
+**Stock Analysis & Data Visualization**
 
 `Python` `Pandas` `NumPy` `Matplotlib` `yfinance`
 
-A data-driven comparison of Tesla and GameStop using historical market data and visualizations.
+A data-driven project comparing Tesla and GameStop using historical market data and visualizations.
 
-→ [View project](https://github.com/akshat-2337/TSLA-vs-GME-stock-analysis-dashboard)
+→ [View Repository](https://github.com/akshat-2337/TSLA-vs-GME-stock-analysis-dashboard)
 
 ---
 
 ### 🧩 Data Structures Lab
 
-**DSA implementations & coursework**
+**Data Structures & Algorithms — MIT Bengaluru**
 
 `C` `Data Structures` `Algorithms`
 
-Implementations of fundamental data structures and algorithms from my coursework.
+A collection of implementations and programs from my Data Structures coursework.
 
-→ [Explore](https://github.com/akshat-2337/data-structures-lab-code)
-
-<br/>
-
-## 📚 Currently learning
-
-```text
-DSA        ███████████████░░░░  Java
-Full Stack ████████████░░░░░░░  React + TypeScript
-```
-
-My current goal:
-
-> **Become really good at solving problems and building things.**
+→ [View Repository](https://github.com/akshat-2337/data-structures-lab-code)
 
 <br/>
 
-## 🎯 What I'm interested in
+## 📚 Currently Working On
 
-* 💻 Full-Stack Development
-* 🧠 Data Structures & Algorithms
-* ⚡ Competitive Programming
-* 🌐 Web Development
-* 💰 FinTech
-* 🛠️ Building useful projects
+* 💻 **Full-Stack Development**
+* 🧠 **Data Structures & Algorithms**
+* ⚡ **Competitive Programming**
+* ⚛️ **React + TypeScript**
+* 🛠️ **Building real-world projects**
+
+<br/>
+
+## 🎯 The Goal
+
+> **Build better. Solve harder. Keep learning.**
+
+I'm trying to move beyond just following tutorials — **learn by building, break things, fix them, and repeat.**
 
 <br/>
 
@@ -89,7 +95,7 @@ My current goal:
 
 <br/>
 
-## 🌐 Find me
+## 🌐 Connect
 
 <p align="left">
   <a href="https://github.com/akshat-2337">
@@ -99,6 +105,4 @@ My current goal:
 
 <br/>
 
-### 💭 build → break → debug → repeat.
-
-<sub>Still figuring it out. Probably always will.</sub>
+### `build → break → debug → repeat`
