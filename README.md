@@ -20,7 +20,7 @@ Currently focused on **full-stack development and Data Structures & Algorithms**
 
 ## 🚀 Things I've built
 
-### 💸 LedgerX
+### 💸 LedgerX (in progress)
 
 **Personal finance management app**
 
