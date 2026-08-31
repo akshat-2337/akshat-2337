@@ -87,14 +87,6 @@ A collection of implementations and programs from my Data Structures coursework.
 I'm trying to move beyond just following tutorials — **learn by building, break things, fix them, and repeat.**
 
 <br/>
-## <b> 📊 GitHub Stats </b>
-<br>
-<br>
-  <a href="https://github.com/akshat-2337">
-  <img src="https://streak-stats.demolab.com?user=akshat-2337&theme=dark" alt="GitHub Streak"/>
-</a>
-
-<br/>
 
 ## 🌐 Connect
 
@@ -103,6 +95,15 @@ I'm trying to move beyond just following tutorials — **learn by building, brea
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+<br/>
+
+## <b> 📊 GitHub Stats </b>
+<br>
+<br>
+  <a href="https://github.com/akshat-2337">
+  <img src="https://streak-stats.demolab.com?user=akshat-2337&theme=dark" alt="GitHub Streak"/>
+</a>
 
 <br/>
 
