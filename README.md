@@ -32,7 +32,7 @@ A student-focused platform that organizes **Digital System Design and Data Struc
 
 ---
 
-### 💸 LedgerX
+### 💸 LedgerX (still building)
 
 **Personal Finance Management App**
 
