@@ -87,13 +87,11 @@ A collection of implementations and programs from my Data Structures coursework.
 I'm trying to move beyond just following tutorials — **learn by building, break things, fix them, and repeat.**
 
 <br/>
+## 📊 GitHub Stats
 
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshat-2337&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-2337&layout=compact&hide_border=true&theme=transparent" height="165"/>
-</p>
+  <a href="https://github.com/akshat-2337">
+  <img src="https://streak-stats.demolab.com?user=akshat-2337&theme=dark" alt="GitHub Streak"/>
+</a>
 
 <br/>
 
