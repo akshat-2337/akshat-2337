@@ -87,7 +87,7 @@ A collection of implementations and programs from my Data Structures coursework.
 I'm trying to move beyond just following tutorials — **learn by building, break things, fix them, and repeat.**
 
 <br/>
-## 📊 GitHub Stats
+## <b> 📊 GitHub Stats </b>
 <br>
 <br>
   <a href="https://github.com/akshat-2337">
