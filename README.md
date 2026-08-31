@@ -22,7 +22,7 @@ Currently focused on **Full-Stack Development, Data Structures & Algorithms, and
 
 ### 📚 LabVault
 
-**Digital Lab Code Hub for MIT Bengaluru**
+**Digital Lab Code Hub for MIT Bengaluru SEM-3 students**
 
 `HTML` `CSS` `JavaScript`
 
