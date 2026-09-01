@@ -28,9 +28,9 @@ Currently focused on **Full-Stack Development, Data Structures & Algorithms, and
 
 A student-focused platform that organizes **Digital System Design and Data Structures lab programs** for CSE Semester III students at MIT Bengaluru — making it easier to find, access and use lab codes in one place.
 <br>
-[PS: This repository is currently private while undergoing active development and design updates. You can still view and explore the live project via the link below:]
 
 → [View Project](https://labvault-two.vercel.app/)
+<br>
 → [View Repository](https://github.com/akshat-2337/LabVault)
 
 ---
