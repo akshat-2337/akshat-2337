@@ -31,6 +31,7 @@ A student-focused platform that organizes **Digital System Design and Data Struc
 [PS: This repository is currently private while undergoing active development and design updates. You can still view and explore the live project via the link below:]
 
 → [View Project](https://labvault-two.vercel.app/)
+→ [View Repository](https://github.com/akshat-2337/LabVault)
 
 ---
 
