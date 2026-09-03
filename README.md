@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF88,100:0D1117&height=220&section=header&text=Akshat%20Verma&fontSize=42&fontColor=00FF88&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Full-Stack%20Dev%20%7C%20Building%20LedgerX&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF88,100:0D1117&height=220&section=header&text=Akshat%20Verma&fontSize=42&fontColor=00FF88&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Full-Stack%20Dev%20%7C%20bing%20chilling&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=build+%E2%86%92+break+%E2%86%92+debug+%E2%86%92+repeat;full-stack+dev+%7C+quant-curious;currently+building+LedgerX" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=build+%E2%86%92+break+%E2%86%92+debug+%E2%86%92+repeat;full-stack+dev+%7C+exploring dsa;currently+learning+react" alt="Typing SVG" />
 
 </div>
 
