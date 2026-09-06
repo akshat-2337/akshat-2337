@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF88,100:0D1117&height=220&section=header&text=Akshat%20Verma&fontSize=42&fontColor=00FF88&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Full-Stack%20Dev%20%7C%20bing%20chilling&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0088FF,100:0D1117&height=220&section=header&text=Akshat%20Verma&fontSize=42&fontColor=0088FF&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Full-Stack%20Dev%20%7C%20bing%20chilling&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
@@ -101,13 +101,13 @@ I'm trying to move beyond just following tutorials — **learn by building, brea
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=akshat-2337&theme=dark&background=0D1117&stroke=00FF88&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=00FF88&dates=8B949E" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=akshat-2337&theme=dark&background=0D1117&stroke=0088FF&ring=0088FF&fire=0088FF&currStreakLabel=0088FF&sideLabels=0088FF&dates=8B949E" alt="GitHub Streak"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF88,100:0D1117&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0088FF,100:0D1117&height=100&section=footer" width="100%"/>
 </div>
 
 ### `build → break → debug → repeat`
