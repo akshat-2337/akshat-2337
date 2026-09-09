@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0088FF,50:0066CC,100:0088FF&height=220&section=header&text=Akshat%20Verma&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Full-Stack%20Dev%20%&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:0088FF,100:FF6B00&height=220&section=header&text=Akshat%20Verma&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Full-Stack%20Dev%20%&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
@@ -107,7 +107,7 @@ I'm trying to move beyond just following tutorials — **learn by building, brea
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0088FF,100:0D1117&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:FF8C00,75:0088FF,100:0D1117&height=100&section=footer" width="100%"/>
 </div>
 
 ### `build → break → debug → repeat`
