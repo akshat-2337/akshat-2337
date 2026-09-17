@@ -5,7 +5,7 @@
 </div>
 <br/>
 
-# Hey, I'm Akshat 👋
+# Hey, I'm Akshat👋
 ### `CS student` · `full stack dev` · `problem solver`
 
 🎓 **2nd Year Computer Science Student @ MIT Bengaluru**
