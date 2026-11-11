@@ -1,112 +1,158 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:007BFF,100:00FFC6&height=220&section=header&text=Akshat%20Verma&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Full-Stack%20Dev%20%&descAlignY=58&descSize=18" width="100%"/>
+# Akshat Verma
+
+**Computer Science Student · Full-Stack Developer · Exploring AI & Data**
+
+[Repositories](https://github.com/akshat-2337?tab=repositories) · [GitHub Profile](https://github.com/akshat-2337)
 
 </div>
-<br/>
 
-# Hey, I'm Akshat👋
-### `CS student` · `full stack dev` · `problem solver`
-
-🎓 **2nd Year Computer Science Student @ MIT Bengaluru**
-
-I enjoy **building things, solving problems, and turning ideas into working software.**
-Currently focused on **Full-Stack Development, Data Structures & Algorithms, and Competitive Programming.**
-
-<br/>
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c,js,ts,react,html,css,tailwind,vite,nodejs,git,github,vscode&perline=8" />
+<p align="center">
+  <em>I turn ideas into functional software, one project at a time.</em>
 </p>
 
-<br/>
+## The short version
 
-## 🚀 Featured Projects
+I'm a Computer Science student at Manipal Institute of Technology, Bengaluru, interested in building useful software and understanding how things work under the hood.
 
-### 📚 LabVault
-**Digital Lab Code Hub for MIT Bengaluru SEM-3 students**
+My interests span full-stack development, machine learning, data analytics, and problem-solving. I enjoy taking projects from an initial idea to something that actually works.
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+<strong>01</strong><br/>
+<sub>Full-Stack Development</sub><br/>
+<small>Web applications, interfaces, APIs</small>
+</td>
+<td align="center" width="33%">
+<strong>02</strong><br/>
+<sub>AI & Data</sub><br/>
+<small>Machine learning, analytics, visualization</small>
+</td>
+<td align="center" width="33%">
+<strong>03</strong><br/>
+<sub>Problem Solving</sub><br/>
+<small>Data structures, algorithms, programming</small>
+</td>
+</tr>
+</table>
+</div>
+
+## Featured builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [LabVault](https://labvault-two.vercel.app/)
+
+<sub>A digital lab code hub for students.</sub>
+
+<br/><br/>
+
 `HTML` `CSS` `JavaScript`
 
-A student-focused platform that organizes **Digital System Design and Data Structures lab programs** for CSE Semester III students at MIT Bengaluru — making it easier to find, access and use lab codes in one place.
+A centralized platform for accessing Digital System Design and Data Structures lab programs, built for Semester III students at MIT Bengaluru.
 
-→ [View Project](https://labvault-two.vercel.app/)
-<br>
-→ [View Repository](https://github.com/akshat-2337/LabVault)
+[Explore project](https://labvault-two.vercel.app/)
 
----
+</td>
+<td width="50%" valign="top">
 
-### 💸 LedgerX (still building)
-**Personal Finance Management App**
-`React` `TypeScript` `Vite` `Tailwind CSS`
+### [LedgerX](https://github.com/akshat-2337/ledgerx)
 
-A personal finance application designed to make tracking and managing finances simple and intuitive.
+<sub>Personal finance management, simplified.</sub>
 
-→ [View Repository](https://github.com/akshat-2337/ledgerx)
+<br/><br/>
 
----
+`React` `TypeScript` `Tailwind CSS`
 
-### 📊 TSLA vs GME Stock Analysis
-**Stock Analysis & Data Visualization**
-`Python` `Pandas` `NumPy` `Matplotlib` `yfinance`
+A personal finance application focused on making expense tracking and money management simple and intuitive.
 
-A data-driven project comparing Tesla and GameStop using historical market data and visualizations.
+[View repository](https://github.com/akshat-2337/ledgerx)
 
-→ [View Repository](https://github.com/akshat-2337/TSLA-vs-GME-stock-analysis-dashboard)
+</td>
+</tr>
 
----
+<tr>
+<td width="50%" valign="top">
 
-### 🧩 Data Structures Lab
-**Data Structures & Algorithms — MIT Bengaluru**
+### [TSLA vs GME Analysis](https://github.com/akshat-2337/TSLA-vs-GME-stock-analysis-dashboard)
+
+<sub>Financial data analysis and visualization.</sub>
+
+<br/><br/>
+
+`Python` `Pandas` `Matplotlib`
+
+A data analysis project comparing Tesla and GameStop using historical stock prices, revenue data, and visualizations.
+
+[View repository](https://github.com/akshat-2337/TSLA-vs-GME-stock-analysis-dashboard)
+
+</td>
+<td width="50%" valign="top">
+
+### Data Structures Lab
+
+<sub>Learning algorithms through implementation.</sub>
+
+<br/><br/>
+
 `C` `Data Structures` `Algorithms`
 
-A collection of implementations and programs from my Data Structures coursework.
+A collection of implementations covering fundamental data structures and algorithms, developed through coursework and practice.
 
-→ [View Repository](https://github.com/akshat-2337/data-structures-lab-code)
+[Explore repositories](https://github.com/akshat-2337?tab=repositories)
 
-<br/>
+</td>
+</tr>
+</table>
 
-## 📚 Currently Working On
+## Live activity
 
-* 💻 **Full-Stack Development**
-* 🧠 **Data Structures & Algorithms**
-* ⚡ **Competitive Programming**
-* ⚛️ **React + TypeScript**
-* 🛠️ **Building real-world projects**
+<div align="center">
 
-<br/>
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akshat-2337&theme=github-compact&hide_border=true&area=true)](https://github.com/akshat-2337)
 
-## 🎯 The Goal
+</div>
 
-> **Build better. Solve harder. Keep learning.**
+## GitHub stats
 
-I'm trying to move beyond just following tutorials — **learn by building, break things, fix them, and repeat.**
+<div align="center">
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=akshat-2337&show_icons=true&theme=transparent&hide_border=true" width="49%" />
 
-## 🌐 Connect
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-2337&layout=compact&theme=transparent&hide_border=true" width="40%" />
 
-<p align="left">
-  <a href="https://github.com/akshat-2337">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+</div>
+
+## Stack
+
+<p align="center">
+
+<code>Python</code> · <code>C</code> · <code>JavaScript</code> · <code>TypeScript</code> · <code>HTML</code> · <code>CSS</code>
+
+<code>React</code> · <code>Vite</code> · <code>Tailwind CSS</code> · <code>Pandas</code> · <code>NumPy</code> · <code>Matplotlib</code> · <code>Git</code>
+
 </p>
 
-<br/>
+## Currently
 
-## <b> 📊 GitHub Stats </b>
+- Studying Computer Science at Manipal Institute of Technology, Bengaluru.
+- Building projects using React, TypeScript, and Python.
+- Exploring machine learning, AI research, and data analytics.
+- Strengthening my foundations in data structures and algorithms.
+- Learning by building, experimenting, and solving real problems.
 
-<br>
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=akshat-2337&theme=dark&background=0D1117&stroke=0088FF&ring=0088FF&fire=0088FF&currStreakLabel=0088FF&sideLabels=0088FF&dates=8B949E" alt="GitHub Streak"/>
-</div>
+<p align="center">
+<em>Build better. Solve harder. Keep learning.</em>
+</p>
 
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:00E5FF,75:007BFF,100:0D1117&height=100&section=footer" width="100%"/>
-</div>
-
-### `build → break → debug → repeat`
+<p align="center">
+<a href="https://github.com/akshat-2337?tab=repositories">Explore all repositories →</a>
+</p>
