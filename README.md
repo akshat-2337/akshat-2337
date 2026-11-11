@@ -47,39 +47,6 @@ My interests span full-stack development, machine learning, data analytics, and 
 <tr>
 <td width="50%" valign="top">
 
-### [LabVault](https://labvault-two.vercel.app/)
-
-<sub>A digital lab code hub for students.</sub>
-
-<br/><br/>
-
-`HTML` `CSS` `JavaScript`
-
-A centralized platform for accessing Digital System Design and Data Structures lab programs, built for Semester III students at MIT Bengaluru.
-
-[Explore project](https://labvault-two.vercel.app/)
-
-</td>
-<td width="50%" valign="top">
-
-### [LedgerX](https://github.com/akshat-2337/ledgerx)
-
-<sub>Personal finance management, simplified.</sub>
-
-<br/><br/>
-
-`React` `TypeScript` `Tailwind CSS`
-
-A personal finance application focused on making expense tracking and money management simple and intuitive.
-
-[View repository](https://github.com/akshat-2337/ledgerx)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
 ### [TSLA vs GME Analysis](https://github.com/akshat-2337/TSLA-vs-GME-stock-analysis-dashboard)
 
 <sub>Financial data analysis and visualization.</sub>
@@ -95,39 +62,21 @@ A data analysis project comparing Tesla and GameStop using historical stock pric
 </td>
 <td width="50%" valign="top">
 
-### Data Structures Lab
+### [PixelBase](https://github.com/akshat-2337/PixelBase)
 
-<sub>Learning algorithms through implementation.</sub>
+<sub>Photography meets data analytics.</sub>
 
 <br/><br/>
 
-`C` `Data Structures` `Algorithms`
+`Python` `EXIF` `Data Analytics`
 
-A collection of implementations covering fundamental data structures and algorithms, developed through coursework and practice.
+A photo analytics platform that extracts and analyzes image metadata to provide meaningful insights into photography habits, camera settings, and shooting patterns.
 
-[Explore repositories](https://github.com/akshat-2337?tab=repositories)
+[View repository](https://github.com/akshat-2337/PixelBase)
 
 </td>
 </tr>
 </table>
-
-## Live activity
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akshat-2337&theme=github-compact&hide_border=true&area=true)](https://github.com/akshat-2337)
-
-</div>
-
-## GitHub stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=akshat-2337&show_icons=true&theme=transparent&hide_border=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-2337&layout=compact&theme=transparent&hide_border=true" width="40%" />
-
-</div>
 
 ## Stack
 
