@@ -68,7 +68,7 @@ A data analysis project comparing Tesla and GameStop using historical stock pric
 
 <br/><br/>
 
-`Python` `EXIF` `Data Analytics`
+`React` `EXIF` `Data Analytics`
 
 A photo analytics platform that extracts and analyzes image metadata to provide meaningful insights into photography habits, camera settings, and shooting patterns.
 
